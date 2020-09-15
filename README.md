@@ -1,3 +1,3 @@
 ## portofolio-web
 
-- [Links](https://wonjunyou.github.io/portofolio-web/.)
+- [Links](https://wonjunyou.github.io/web-portfolio/)
