@@ -1,4 +1,4 @@
-## portofolio-web
+## portfolio-web
 
 >What to do? 
 + Primary) Responsive WEB SETTING
