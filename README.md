@@ -1,6 +1,6 @@
 ## portfolio-web
 
->What to do??
+>What to do?
 + Primary) Responsive WEB SETTING
 + Secondary ) Complete Project section with HTML/CSS
 + Add Simple Javascript : main title typing effect & scroll down moving effect
