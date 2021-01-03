@@ -1,5 +1,8 @@
 ## portfolio-web
 
+>Progress
++ Feat: front-end structure 
+
 >What to do?
 + Primary) Responsive WEB SETTING
 + Secondary ) Complete Project section with HTML/CSS
